@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliveryOrderProc", "DeliveryOrderProc\DeliveryOrderProc.csproj", "{3E363421-0A1F-4DD6-BAFD-90B970589A59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderItemsReserverNew", "OrderItemsReserverNew\OrderItemsReserverNew.csproj", "{8E2A5B53-3DC4-47B7-B9A2-9BEC9995B78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E363421-0A1F-4DD6-BAFD-90B970589A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E363421-0A1F-4DD6-BAFD-90B970589A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E363421-0A1F-4DD6-BAFD-90B970589A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E363421-0A1F-4DD6-BAFD-90B970589A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2A5B53-3DC4-47B7-B9A2-9BEC9995B78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2A5B53-3DC4-47B7-B9A2-9BEC9995B78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2A5B53-3DC4-47B7-B9A2-9BEC9995B78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2A5B53-3DC4-47B7-B9A2-9BEC9995B78B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F10F1337-324D-4A2F-9780-52F5AA932CCB}
+	EndGlobalSection
+EndGlobal
